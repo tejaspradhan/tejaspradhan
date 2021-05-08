@@ -1,6 +1,10 @@
 ![Header](https://github.com/tejaspradhan/tejaspradhan/blob/main/header.png?raw=true)
 
 ### Hi I'm Tejas! 👋
+I'm a Computer Science Enthusiast!I love to take on new challenges and solve real world problems with an aim to make an impact on the society.
+I really enjoy designing & developing scalable and useful software applications. 
+
+Besides that, I am really passionate about the field of **Artificial Intelligence** and **Machine learning**, specifically the field of **Natural Language Processing**. 
 
 <!--
 **tejaspradhan/tejaspradhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
