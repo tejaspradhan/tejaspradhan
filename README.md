@@ -1,6 +1,6 @@
 ![Header](https://github.com/tejaspradhan/tejaspradhan/blob/main/header.png?raw=true)
 
-### Hi there 👋
+### Hi I'm Tejas! 👋
 
 <!--
 **tejaspradhan/tejaspradhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
