@@ -29,12 +29,15 @@ Besides that, I am really passionate about the field of **Artificial Intelligenc
 
 [![Tejas Pradhan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=tejaspradhan&theme=react-dark)](https://github.com/tejaspradhan/)
 
-<a>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejaspradhan&theme=black-ice&hide_border=true" width="800" style="margin-bottom:300px;">
-  </a>
-  <br>
+
 
 <div align="center">
+  <a >
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejaspradhan&theme=black-ice&hide_border=true" width="800">
+  </a>
+  <br/>
+  <br/>
+  
   <a href="https://github.com/tejaspradhan/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaspradhan&theme=dark&hide_border=true&text_color=fff&icon_color=03e8fc&title_color=03e8fc&count_private=true" />
   </a>
