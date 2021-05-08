@@ -1,4 +1,4 @@
-![Header](https://github.com/tejaspradhan/tejaspradhan/blob/main/gheader.png?raw=true)
+![Header](https://github.com/tejaspradhan/tejaspradhan/blob/main/header.png?raw=true)
 
 ### Hi there 👋
 
