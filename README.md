@@ -27,6 +27,8 @@ Besides that, I am really passionate about the field of **Artificial Intelligenc
 ## Github Stats ⭐⭐⭐
 <br/>
 
+[![Tejas Pradhan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=tejaspradhan&theme=react-dark)](https://github.com/tejaspradhan/github-readme-activity-graph)
+
 <div align="center">
   <a href="https://github.com/tejaspradhan/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaspradhan&theme=dark&hide_border=true&text_color=fff&icon_color=03e8fc&title_color=03e8fc&count_private=true" />
