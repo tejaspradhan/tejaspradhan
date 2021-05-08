@@ -1,3 +1,5 @@
+![Header](https://github.com/tejaspradhan/tejaspradhan/blob/main/gheader.png?raw=true)
+
 ### Hi there 👋
 
 <!--
