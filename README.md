@@ -37,14 +37,7 @@ Besides that, I am really passionate about the field of **Artificial Intelligenc
   <br/>
   <br/>
   
-  <a href="https://github.com/tejaspradhan/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaspradhan&theme=dark&hide_border=true&text_color=fff&icon_color=03e8fc&title_color=03e8fc&count_private=true" />
-  </a>
- <a href="https://github.com/tejaspradhan/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tejaspradhan&count_private=true&theme=dark&show_icons=true&hide_border=true&text_color=fff&icon_color=03e8fc&title_color=03e8fc&card_width=3&line_height=40" />
-  </a>
-</div>
-<br>
+  
 
 ## Let's Connect 🧑‍🤝‍🧑 
 
