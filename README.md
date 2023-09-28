@@ -19,11 +19,7 @@ Besides that, I am really passionate about the field of **Artificial Intelligenc
 ### Tools and Technologies
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/scikit_learn-f7931e?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/TensorFlow-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;&nbsp;![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-
 <br/>
-
-
-[![Tejas Pradhan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=tejaspradhan&theme=react-dark&hide_border=true)](https://github.com/tejaspradhan/)
 
 
 
