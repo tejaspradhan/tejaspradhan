@@ -21,6 +21,15 @@ Besides that, I am really passionate about the field of **Artificial Intelligenc
 
 <br/>  
 
+###  &nbsp;GitHub Stats 📊
+<!--![View Count](https://github-views.herokuapp.com/githubViews) -->
+<p align="center">
+<a href="https://github.com/tejaspradhan">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tejaspradhan&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tejaspradhan&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+</a>
+</p>
+
 ## Let's Connect 🧑‍🤝‍🧑 
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejas-p-64aa4a11b/)&nbsp;&nbsp;[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tejaspradhan135/)&nbsp;&nbsp;[![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100007944122914)
