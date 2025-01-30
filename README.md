@@ -2,11 +2,16 @@
 
 ## Hi I'm Tejas! 👋
 <br/>
-I'm a Computer Science Enthusiast! I love to take on new challenges and solve real world problems with an aim to make a positive impact on the society.
-I really enjoy designing & developing scalable and useful software applications. 
+I am a passionate technologist with a diverse set of experiences ranging from solving highly innovative technology problems in the lab to conceptualizing them in production-grade systems. 
 
-Besides that, I am really passionate about the field of **Artificial Intelligence** and **Machine learning**, specifically the field of **Natural Language Processing**. 
+🎓 Currently, I am furthering my expertise through my **Master’s degree in Software Systems Engineering at RWTH Aachen University**, where I am delving deeper into the world of **distributed systems, software performance and AI-driven architectures**. 
+
+Having worked across multiple domains in **software engineering**—including **Data, Backend, Machine Learning, and Computer Science Research**—I have developed a keen  **interest in designing and developing highly performant intelligent systems**.  
+
+In the age of **distributed computing**, I am particularly fascinated by how we can build scalable and efficient AI systems. Furthermore, I am also particularly interested in **Explainability** and **Reasoning** aspects of AI models.  
+
 <br>
+
 
 ## Skills 👨‍🔬
 
