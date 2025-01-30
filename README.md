@@ -2,7 +2,10 @@
 
 ## Hi I'm Tejas! 👋
 <br/>
+
 I am a passionate technologist with a diverse set of experiences ranging from solving highly innovative technology problems in the lab to conceptualizing them in production-grade systems. 
+
+<br/>
 
 🎓 Currently, I am furthering my expertise through my **Master’s degree in Software Systems Engineering at RWTH Aachen University**, where I am delving deeper into the world of **distributed systems, software performance and AI-driven architectures**. 
 
