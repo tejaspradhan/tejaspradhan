@@ -3,15 +3,15 @@
 ## Hi I'm Tejas! 👋
 <br/>
 
-I am a passionate technologist with a diverse set of experiences ranging from solving highly innovative technology problems in the lab to conceptualizing them in production-grade systems. 
+I am a passionate technologist with a diverse set of experiences ranging from solving innovative technology problems in research labs to conceptualizing them in production-grade systems. 
 
 <br/>
 
-🎓 Currently, I am furthering my expertise through my **Master’s degree in Software Systems Engineering at RWTH Aachen University**, where I am delving deeper into the world of **distributed systems, software performance and AI-driven architectures**. 
+🎓 Currently, I am pursuing a **Master’s degree in Software Systems Engineering at RWTH Aachen University**, where I am delving deeper into the world of **distributed systems, software performance and AI-driven architectures**. 
 
-Having worked across multiple domains in **software engineering**—including **Data, Backend, Machine Learning, and Computer Science Research**—I have developed a keen  **interest in designing and developing highly performant intelligent systems**.  
+Having worked across multiple domains in **software engineering**—including **Data, Backend, Machine Learning**, as well as  **Computer Science Research**—I have developed a keen  **interest in designing and developing highly performant intelligent systems**.  
 
-In the age of **distributed computing**, I am particularly fascinated by how we can build scalable and efficient AI systems. Furthermore, I am also particularly interested in **Explainability** and **Reasoning** aspects of AI models.  
+In the age of **distributed computing**, I am particularly fascinated by how we can build scalable and efficient AI systems. Furthermore, I am also particularly interested in **Explainability** and **Reasoning** aspects of machine learning models.  
 
 <br>
 
