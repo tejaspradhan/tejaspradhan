@@ -15,6 +15,7 @@ In the age of **distributed computing**, I am particularly fascinated by how we 
 
 <br>
 
+To know more about me, you can visit my [Website](https://tejaspradhan.github.io/).
 
 ## Skills 👨‍🔬
 
