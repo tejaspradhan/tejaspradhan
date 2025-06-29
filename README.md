@@ -7,11 +7,11 @@ I am a passionate technologist with a diverse set of experiences ranging from so
 
 <br/>
 
-🎓 Currently, I am pursuing a **Master’s degree in Software Systems Engineering at RWTH Aachen University**, where I am delving deeper into the world of **distributed systems, software performance and AI-driven architectures**. 
+🎓 Currently, I am pursuing a **Master’s degree in Software Systems Engineering at RWTH Aachen University**, where I am delving deeper into the world of **distributed systems, software performance and secure software architectures**. 
 
 Having worked across multiple domains in **software engineering**—including **Data, Backend, Machine Learning**, as well as  **Computer Science Research**—I have developed a keen  **interest in designing and developing highly performant intelligent systems**.  
 
-In the age of **distributed computing**, I am particularly fascinated by how we can build scalable and efficient AI systems. Furthermore, I am also particularly interested in **Explainability** and **Reasoning** aspects of machine learning models.  
+With a background that bridges applied research and production-grade software, I am driven by a passion for turning complex problems into practical, efficient solutions. I am especially interested in architecture and development of intelligent distributed systems with a strong focus on security.
 
 <br>
 
